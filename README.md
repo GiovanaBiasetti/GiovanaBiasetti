@@ -8,20 +8,13 @@ I build and scale AI-powered risk and credit risk products that enable payments 
 
 ## 🚀 About Me & My Work
 
-Currently, I am the **Staff Product Manager for Credit Risk (Credit Cards) & Data Platform at Neon**. Previously, I served as the **Lead Product Manager for Risk and Payments (U.S. & Canada) at Trustly**. 
+Currently, I am the Staff Product Manager for Credit Risk (Credit Cards) & Data Platform at Neon. Previously, I served as the Lead Product Manager for Risk and Payments (U.S. & Canada) at Trustly. 
 
-My work sits at the intersection of **Product, Data Science, and Engineering**, focusing on real-time risk infrastructure that protects millions in transaction volume. I partner closely with Engineering, Machine Learning, Risk Operations, and Compliance to transform complex fraud patterns into reliable, audit-ready rules and models.
-
----
+My work sits at the intersection of Product, Data Science, and Engineering, focusing on scalable risk, credit, and payments infrastructure that secures millions in volume. I partner closely with Engineering, Machine Learning, Risk Operations, and Compliance to transform complex transactional risk, credit underwriting patterns, and ledger capabilities into reliable, audit-ready platforms and models.
 
 ## 🧠 About This GitHub
 
-This space hosts my technical projects, experiments, and hands-on implementations. You will find repositories focused on:
-
-*   **AI & Machine Learning Models** (Predictive and preventive modeling)
-*   **Risk & Credit Infrastructure** (Decision engines and credit underwriting workflows)
-*   **Payments & Open Banking** (Secure, low-friction transactional flows)
-*   **Data Platforms** (Scalable data architecture and consumption)
+This space hosts my technical projects, experiments, and hands-on implementations. 
 
 ---
 
