@@ -34,6 +34,4 @@ Outside of building products, I read technical books to stay ahead of AI/ML, pla
 
 ---
 
-## 🛠️ Connect with me:
-
-[![LinkedIn](https://www.linkedin.com/in/giovanabiasetti/)
+## 🛠️ Connect with me: https://www.linkedin.com/in/giovanabiasetti
