@@ -1,4 +1,4 @@
-# Hi, I'm Giovana Biasetti 👋
+# Hi, I'm Gio 👋
 
 **Staff Product Manager | AI, Risk, Credit & Data Platforms**
 
